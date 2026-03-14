@@ -1,4 +1,4 @@
-# Optimization Algorithms in Python
+# Metaheuristic Optimization Algorithms in Python
 
 Small, self-contained Python examples for two optimization families:
 
